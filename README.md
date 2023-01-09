@@ -1,0 +1,2 @@
+# authbotxd
+auth
